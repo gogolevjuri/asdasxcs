@@ -56,7 +56,7 @@ def get_summary(text):
     log.append("Generating summary for text")
 
     response = openai.chat.completions.create(
-      model="gpt-4o",
+      model="gpt-3.5-turbo-0125",
       messages=[
         {
           "role": "user",
