@@ -1,0 +1,9 @@
+{
+    "openai_api_key": "sk-DIwcajHgKKJKAA1w2GmeaIi6plEquaR",
+    "mysql": {
+        "host": "192.168.77.",
+        "database": "monit",
+        "user": "prizrak",
+        "password": "1710"
+    }
+}
